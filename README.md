@@ -35,9 +35,16 @@ Each row contains 18 features: NO2 (target), 5 meteorological variables, 4 traff
 
 ### Progress Report 1 — Data Analysis & Graph Construction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/cmp712-no2-prediction/blob/main/progress_report_1.ipynb)
+<a href="https://colab.research.google.com/github/palahb/no2-prediction/blob/main/progress_report_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Covers: environment setup, EDA, graph construction from distance data, Z-score normalisation, and sliding window preprocessing.
+
+### Progress Report 2 — Model Training and Evaluation
+
+<a href="https://colab.research.google.com/github/palahb/no2-prediction/blob/main/progress_report_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Covers: training and evaluating four deep learning
+models on the Madrid air quality dataset.
 
 ---
 
