@@ -46,7 +46,7 @@ Covers: environment setup, EDA, graph construction from distance data, Z-score n
 Covers: training and evaluating four deep learning
 models on the Madrid air quality dataset.
 
-### Final Report 2 — Hyperparameter Sweep and Ablation Study
+### Final Report — Hyperparameter Sweep and Ablation Study
 
 <a href="https://colab.research.google.com/github/palahb/no2-prediction/blob/main/final_report.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
