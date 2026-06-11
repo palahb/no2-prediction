@@ -46,6 +46,12 @@ Covers: environment setup, EDA, graph construction from distance data, Z-score n
 Covers: training and evaluating four deep learning
 models on the Madrid air quality dataset.
 
+### Final Report 2 — Hyperparameter Sweep and Ablation Study
+
+<a href="https://colab.research.google.com/github/palahb/no2-prediction/blob/main/final_report.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Covers: Fixing A3T-GCN training by addressing overfitting, hyperparameter sweep to find the best setup of A3T-GCN, ablation study to justify distance-based edge weights and per-station error analysis.
+
 ---
 
 > Tested on Google Colab with Python 3.10, PyTorch 2.10.0, CUDA 12.8 (Tesla T4).
